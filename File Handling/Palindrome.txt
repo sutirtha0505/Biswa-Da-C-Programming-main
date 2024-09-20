@@ -1,0 +1,4 @@
+Pallindrome Strings are:
+madam
+1221
+ramakamar
